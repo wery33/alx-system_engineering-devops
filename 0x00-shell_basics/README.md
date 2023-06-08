@@ -1,6 +1,4 @@
+###BASIC SHELL COMMANDS FOR BEGINNERS
 
-## BASIC SHELL COMMANDS FOR BEGINNERS
-
-1. pwd is used to prints the absolute path name of the current working directory.
-
-2. 
+1. pwd prints the absolute path name of the current working directory
+2. ls Display the contents list of your current directory.

@@ -1,8 +1,0 @@
-#!/bin/bash
-git add .
-
-
-
-git commit -m "The man"
-git push
-echo "Items pushed to repo successfully"

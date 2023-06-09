@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "Doing it well"
+git push
+echo "I am done pushing"

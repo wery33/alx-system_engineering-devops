@@ -1,5 +1,0 @@
-#!/bin/bash
-git add .
-git commit -m "just done"
-git push
-echo "All done as expected"

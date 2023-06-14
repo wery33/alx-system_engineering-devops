@@ -1,2 +1,2 @@
 #!/bin/bash
-( echo declare -p | echo ""| echo printenv | echo ""| echo declare -F )
+set
